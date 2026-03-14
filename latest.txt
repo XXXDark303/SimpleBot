@@ -1,1 +1,2 @@
 https://github.com/XXXDark303/SimpleBot/releases/download/V2.1/SimpleBot-V2.1.py
+2.1
