@@ -2,6 +2,6 @@
 
 <div align="center">
 
-![Latest](https://img.shields.io/github/release/XXXDark303/3DRT)
+![Latest](https://img.shields.io/github/release/XXXDark303/SimpleBot)
 
 
